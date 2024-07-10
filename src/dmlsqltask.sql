@@ -427,3 +427,4 @@ select *  from cars order by price desc limit 10;
 select * from cars order by year_of_issue desc  offset 5 fetch first 10 rows only ;
 select * from cars where year_of_issue not  between   1995 and 2005;
 select
+----Ыгдефт
